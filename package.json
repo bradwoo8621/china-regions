@@ -4,7 +4,7 @@
   "description": "china regions: provinces, cities and districts",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
