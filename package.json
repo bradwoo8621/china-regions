@@ -1,0 +1,30 @@
+{
+  "name": "china-regions-pcd",
+  "version": "1.0.0",
+  "description": "china regions: provinces, cities and districts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradwoo8621/china-regions.git"
+  },
+  "keywords": [
+    "china",
+    "region",
+    "province",
+    "city",
+    "district",
+    "中国",
+    "地区",
+    "国标代码",
+    "省市区县"
+  ],
+  "author": "bradwoo8621",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradwoo8621/china-regions/issues"
+  },
+  "homepage": "https://github.com/bradwoo8621/china-regions#readme"
+}
