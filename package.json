@@ -1,6 +1,6 @@
 {
   "name": "china-regions-pcd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "china regions: provinces, cities and districts",
   "main": "index.js",
   "scripts": {

@@ -4246,4 +4246,4 @@ const DISTRICTS = {
 	]
 };
 
-module.exports = { PROVINCES, CITIES, DISTRICTS };
+export { PROVINCES, CITIES, DISTRICTS };
