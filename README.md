@@ -6,7 +6,7 @@
 From [中华人民共和国民政部](http://www.mca.gov.cn/article/sj/xzqh/)
 
 # Install
-`npm i preset-process-env`
+`npm i china-regions-pcd`
 
 # Usage
 ```javascript
